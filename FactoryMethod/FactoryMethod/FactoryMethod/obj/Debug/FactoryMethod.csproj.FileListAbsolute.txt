@@ -1,0 +1,10 @@
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.Form1.resources
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Jordan\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
