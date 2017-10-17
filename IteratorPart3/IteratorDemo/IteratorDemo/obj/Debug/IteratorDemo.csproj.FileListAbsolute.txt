@@ -1,0 +1,10 @@
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.Form1.resources
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.Properties.Resources.resources
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.csproj.GenerateResource.Cache
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\bin\Debug\IteratorDemo.exe.config
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\bin\Debug\IteratorDemo.exe
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\bin\Debug\IteratorDemo.pdb
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.exe
+C:\Users\Jordan\Design Patterns\IteratorPart3\IteratorDemo\IteratorDemo\obj\Debug\IteratorDemo.pdb
