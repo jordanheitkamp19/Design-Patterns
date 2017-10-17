@@ -1,0 +1,11 @@
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Properties.Resources.resources
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.GenerateResource.Cache
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Client.resources
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Observer.resources
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Jordan\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
