@@ -1,0 +1,6 @@
+C:\Users\Jordan\Design Patterns\SingletonPattern\SingletonLibrary\bin\Debug\SingletonLibrary.dll
+C:\Users\Jordan\Design Patterns\SingletonPattern\SingletonLibrary\bin\Debug\SingletonLibrary.pdb
+C:\Users\Jordan\Design Patterns\SingletonPattern\SingletonLibrary\obj\Debug\SingletonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Design Patterns\SingletonPattern\SingletonLibrary\obj\Debug\SingletonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Design Patterns\SingletonPattern\SingletonLibrary\obj\Debug\SingletonLibrary.dll
+C:\Users\Jordan\Design Patterns\SingletonPattern\SingletonLibrary\obj\Debug\SingletonLibrary.pdb
